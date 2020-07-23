@@ -53,4 +53,4 @@ The following are the labelling made to to each column starting with or contanin
 FinalTidyDf was created by summarizing FinalDf taking the means of each variable for each activity and each subject, after groupped by subject and activity.
 
 ### Save the resulting R-script as a text file
-Export FinalData into FinalData.txt file.
+Export FinalTidyDf into FinalTidyDf.txt file.
